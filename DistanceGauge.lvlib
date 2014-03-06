@@ -6,7 +6,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Config" Type="Folder">
 		<Item Name="ChannelsToRead.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/Devices/DistanceGauge/Config/ChannelsToRead.ctl"/>
-		<Item Name="Distance Gauge.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/Devices/DistanceGauge/Config/Distance Gauge.ctl"/>
+		<Item Name="DistanceGauge.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/Devices/DistanceGauge/Config/DistanceGauge.ctl"/>
 	</Item>
 	<Item Name="DistanceGauge" Type="Folder">
 		<Item Name="DistanceGauge.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/Common/Devices/DistanceGauge/DistanceGauge/DistanceGauge.lvclass"/>
