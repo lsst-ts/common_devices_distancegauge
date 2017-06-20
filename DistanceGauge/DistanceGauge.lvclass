@@ -90,6 +90,15 @@
 		</Item>
 	</Item>
 	<Item Name="Public" Type="Folder">
+		<Item Name="applyPresetAllChannels.vi" Type="VI" URL="/&lt;userlib&gt;/Common/Devices/DistanceGauge/DistanceGauge/applyPresetAllChannels.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;*!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%:!=!!?!!!L%U2J=X2B&lt;G.F2W&amp;V:W5O&lt;(:M;7)62'FT&gt;'&amp;O9W6(986H:3ZM&gt;G.M98.T!"&amp;%;8.U97ZD:5&gt;B&gt;7&gt;F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!%:!=!!?!!!L%U2J=X2B&lt;G.F2W&amp;V:W5O&lt;(:M;7)62'FT&gt;'&amp;O9W6(986H:3ZM&gt;G.M98.T!""%;8.U97ZD:5&gt;B&gt;7&gt;F)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q-!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!%!!!!!!"!!A!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		</Item>
 		<Item Name="retrieveData.vi" Type="VI" URL="/&lt;userlib&gt;/Common/Devices/DistanceGauge/DistanceGauge/retrieveData.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(?!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"^!'A!"!!-!!1!42'FT&gt;'&amp;O9W5A476B=X6S:71A-1!@1"I!!1!$!!%!%U2J=X2B&lt;G.F)%VF98.V=G6E)$)!3A$RTR]3.A!!!!)42'FT&gt;'&amp;O9W6(986H:3ZM&gt;GRJ9B&amp;%;8.U97ZD:3"%982B,G.U&lt;!!=1&amp;!!!A!&amp;!!9.2'FT&gt;'&amp;O9W5A2'&amp;U91"'1(!!(A!!+R.%;8.U97ZD:5&gt;B&gt;7&gt;F,GRW&lt;'FC&amp;52J=X2B&lt;G.F2W&amp;V:W5O&lt;(:D&lt;'&amp;T=Q!22'FT&gt;'&amp;O9W6(986H:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"'1(!!(A!!+R.%;8.U97ZD:5&gt;B&gt;7&gt;F,GRW&lt;'FC&amp;52J=X2B&lt;G.F2W&amp;V:W5O&lt;(:D&lt;'&amp;T=Q!12'FT&gt;'&amp;O9W6(986H:3"J&lt;A!!91$Q!!Q!!Q!%!!=!#!!%!!1!"!!%!!E!"!!%!!I$!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -117,14 +126,5 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082139152</Property>
 		</Item>
-	</Item>
-	<Item Name="applyPresetAllChannels.vi" Type="VI" URL="/&lt;userlib&gt;/Common/Devices/DistanceGauge/DistanceGauge/applyPresetAllChannels.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;*!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%:!=!!?!!!L%U2J=X2B&lt;G.F2W&amp;V:W5O&lt;(:M;7)62'FT&gt;'&amp;O9W6(986H:3ZM&gt;G.M98.T!"&amp;%;8.U97ZD:5&gt;B&gt;7&gt;F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!%:!=!!?!!!L%U2J=X2B&lt;G.F2W&amp;V:W5O&lt;(:M;7)62'FT&gt;'&amp;O9W6(986H:3ZM&gt;G.M98.T!""%;8.U97ZD:5&gt;B&gt;7&gt;F)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q-!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!%!!!!!!"!!A!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 </LVClass>
